@@ -21,4 +21,3 @@ public class WeChatProperties {
     private String refundNotifyUrl; //退款成功的回调地址
 
 }
-12
